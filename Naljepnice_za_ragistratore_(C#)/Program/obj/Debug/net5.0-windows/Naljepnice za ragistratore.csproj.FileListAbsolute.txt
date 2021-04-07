@@ -1,0 +1,44 @@
+C:\Users\Severin\source\repos\Naljepnice za ragistratore\obj\Debug\net5.0-windows\Naljepnice za ragistratore.csprojAssemblyReference.cache
+C:\Users\Severin\source\repos\Naljepnice za ragistratore\obj\Debug\net5.0-windows\Naljepnice_za_ragistratore.Form1.resources
+C:\Users\Severin\source\repos\Naljepnice za ragistratore\obj\Debug\net5.0-windows\Naljepnice_za_ragistratore.Form2.resources
+C:\Users\Severin\source\repos\Naljepnice za ragistratore\obj\Debug\net5.0-windows\Naljepnice_za_ragistratore.Properties.Resources.resources
+C:\Users\Severin\source\repos\Naljepnice za ragistratore\obj\Debug\net5.0-windows\Naljepnice za ragistratore.csproj.GenerateResource.cache
+C:\Users\Severin\source\repos\Naljepnice za ragistratore\obj\Debug\net5.0-windows\Naljepnice za ragistratore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Severin\source\repos\Naljepnice za ragistratore\obj\Debug\net5.0-windows\Naljepnice za ragistratore.AssemblyInfoInputs.cache
+C:\Users\Severin\source\repos\Naljepnice za ragistratore\obj\Debug\net5.0-windows\Naljepnice za ragistratore.AssemblyInfo.cs
+C:\Users\Severin\source\repos\Naljepnice za ragistratore\obj\Debug\net5.0-windows\Naljepnice za ragistratore.csproj.CoreCompileInputs.cache
+C:\Users\Severin\source\repos\Naljepnice za ragistratore\bin\Debug\net5.0-windows\Naljepnice za ragistratore.exe
+C:\Users\Severin\source\repos\Naljepnice za ragistratore\bin\Debug\net5.0-windows\Naljepnice za ragistratore.deps.json
+C:\Users\Severin\source\repos\Naljepnice za ragistratore\bin\Debug\net5.0-windows\Naljepnice za ragistratore.runtimeconfig.json
+C:\Users\Severin\source\repos\Naljepnice za ragistratore\bin\Debug\net5.0-windows\Naljepnice za ragistratore.runtimeconfig.dev.json
+C:\Users\Severin\source\repos\Naljepnice za ragistratore\bin\Debug\net5.0-windows\Naljepnice za ragistratore.dll
+C:\Users\Severin\source\repos\Naljepnice za ragistratore\bin\Debug\net5.0-windows\ref\Naljepnice za ragistratore.dll
+C:\Users\Severin\source\repos\Naljepnice za ragistratore\bin\Debug\net5.0-windows\Naljepnice za ragistratore.pdb
+C:\Users\Severin\source\repos\Naljepnice za ragistratore\obj\Debug\net5.0-windows\Naljepnice za ragistratore.dll
+C:\Users\Severin\source\repos\Naljepnice za ragistratore\obj\Debug\net5.0-windows\ref\Naljepnice za ragistratore.dll
+C:\Users\Severin\source\repos\Naljepnice za ragistratore\obj\Debug\net5.0-windows\Naljepnice za ragistratore.pdb
+C:\Users\Severin\source\repos\Naljepnice za ragistratore\obj\Debug\net5.0-windows\Naljepnice za ragistratore.genruntimeconfig.cache
+C:\Users\Severin\source\repos\Naljepnice za ragistratore\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Severin\source\repos\Naljepnice za ragistratore\obj\Debug\net5.0-windows\Naljepnice za ragistratore.csproj.ResolveComReference.cache
+G:\PROJEKTI 2021\Naljepnice_za_ragistratore_(C#)\Program\bin\Debug\net5.0-windows\Naljepnice za ragistratore.exe
+G:\PROJEKTI 2021\Naljepnice_za_ragistratore_(C#)\Program\bin\Debug\net5.0-windows\Naljepnice za ragistratore.deps.json
+G:\PROJEKTI 2021\Naljepnice_za_ragistratore_(C#)\Program\bin\Debug\net5.0-windows\Naljepnice za ragistratore.runtimeconfig.json
+G:\PROJEKTI 2021\Naljepnice_za_ragistratore_(C#)\Program\bin\Debug\net5.0-windows\Naljepnice za ragistratore.runtimeconfig.dev.json
+G:\PROJEKTI 2021\Naljepnice_za_ragistratore_(C#)\Program\bin\Debug\net5.0-windows\Naljepnice za ragistratore.dll
+G:\PROJEKTI 2021\Naljepnice_za_ragistratore_(C#)\Program\bin\Debug\net5.0-windows\ref\Naljepnice za ragistratore.dll
+G:\PROJEKTI 2021\Naljepnice_za_ragistratore_(C#)\Program\bin\Debug\net5.0-windows\Naljepnice za ragistratore.pdb
+G:\PROJEKTI 2021\Naljepnice_za_ragistratore_(C#)\Program\obj\Debug\net5.0-windows\Naljepnice za ragistratore.csprojAssemblyReference.cache
+G:\PROJEKTI 2021\Naljepnice_za_ragistratore_(C#)\Program\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+G:\PROJEKTI 2021\Naljepnice_za_ragistratore_(C#)\Program\obj\Debug\net5.0-windows\Naljepnice za ragistratore.csproj.ResolveComReference.cache
+G:\PROJEKTI 2021\Naljepnice_za_ragistratore_(C#)\Program\obj\Debug\net5.0-windows\Naljepnice_za_ragistratore.Form1.resources
+G:\PROJEKTI 2021\Naljepnice_za_ragistratore_(C#)\Program\obj\Debug\net5.0-windows\Naljepnice_za_ragistratore.Form2.resources
+G:\PROJEKTI 2021\Naljepnice_za_ragistratore_(C#)\Program\obj\Debug\net5.0-windows\Naljepnice_za_ragistratore.Properties.Resources.resources
+G:\PROJEKTI 2021\Naljepnice_za_ragistratore_(C#)\Program\obj\Debug\net5.0-windows\Naljepnice za ragistratore.csproj.GenerateResource.cache
+G:\PROJEKTI 2021\Naljepnice_za_ragistratore_(C#)\Program\obj\Debug\net5.0-windows\Naljepnice za ragistratore.GeneratedMSBuildEditorConfig.editorconfig
+G:\PROJEKTI 2021\Naljepnice_za_ragistratore_(C#)\Program\obj\Debug\net5.0-windows\Naljepnice za ragistratore.AssemblyInfoInputs.cache
+G:\PROJEKTI 2021\Naljepnice_za_ragistratore_(C#)\Program\obj\Debug\net5.0-windows\Naljepnice za ragistratore.AssemblyInfo.cs
+G:\PROJEKTI 2021\Naljepnice_za_ragistratore_(C#)\Program\obj\Debug\net5.0-windows\Naljepnice za ragistratore.csproj.CoreCompileInputs.cache
+G:\PROJEKTI 2021\Naljepnice_za_ragistratore_(C#)\Program\obj\Debug\net5.0-windows\Naljepnice za ragistratore.dll
+G:\PROJEKTI 2021\Naljepnice_za_ragistratore_(C#)\Program\obj\Debug\net5.0-windows\ref\Naljepnice za ragistratore.dll
+G:\PROJEKTI 2021\Naljepnice_za_ragistratore_(C#)\Program\obj\Debug\net5.0-windows\Naljepnice za ragistratore.pdb
+G:\PROJEKTI 2021\Naljepnice_za_ragistratore_(C#)\Program\obj\Debug\net5.0-windows\Naljepnice za ragistratore.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Naljepnice za ragistratore/1.0.0": {
+        "runtime": {
+          "Naljepnice za ragistratore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Naljepnice za ragistratore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
