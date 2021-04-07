@@ -10,14 +10,14 @@ TOOLS AND TECHNOLOGIES:
    - GUI (Graphical user interface) and graphic Tools:  Adobe Photoshop and  Visual Studio (Windows Forms Designer).
    - Template and graphic for printing:  Microsoft Word.
  
- 
+         
 INSTRUCTIONS FOR USE:
   1.  Run the program
   2.  Press the red button
   3.  Please fill out the form
   4.  Press the print button
 
-
+         
 Example-of-finished: Stickers_for_office_folders (Photo):
 
 ![photo1](https://user-images.githubusercontent.com/81822988/113845184-87406e00-9795-11eb-9951-85ab89976997.jpg)
