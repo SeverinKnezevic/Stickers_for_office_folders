@@ -17,8 +17,8 @@ INSTRUCTIONS FOR USE:
   3.  Please fill out the form
   4.  Press the print button
 
-![Photo1](https://user-images.githubusercontent.com/81822988/113843924-4a27ac00-9794-11eb-988e-9f2c84a1ed65.jpg)
 
+![photo1](https://user-images.githubusercontent.com/81822988/113844647-fcf80a00-9794-11eb-8eee-0c4d0009b6da.jpg)
 
         -- Severin Knežević --
    Email: knezevicseverin@gmail.com
