@@ -17,6 +17,7 @@ INSTRUCTIONS FOR USE:
   3.  Please fill out the form
   4.  Press the print button
 
+![Photo1](https://user-images.githubusercontent.com/81822988/113843924-4a27ac00-9794-11eb-988e-9f2c84a1ed65.jpg)
 
 
         -- Severin Knežević --
