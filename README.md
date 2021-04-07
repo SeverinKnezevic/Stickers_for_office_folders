@@ -5,10 +5,10 @@ Functional and simple program!
 
 
 TOOLS AND TECHNOLOGIES: 
-    Programming languages: C#.
-    IDE: MS Visual Studio.
-    GUI (Graphical user interface) and graphic Tools:  Adobe Photoshop and  Visual Studio (Windows Forms Designer).
-    Template and graphic for printing:  Microsoft Word.
+   - Programming languages: C#.
+   - IDE: MS Visual Studio.
+   - GUI (Graphical user interface) and graphic Tools:  Adobe Photoshop and  Visual Studio (Windows Forms Designer).
+   - Template and graphic for printing:  Microsoft Word.
  
  
 INSTRUCTIONS FOR USE:
