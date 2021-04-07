@@ -19,7 +19,11 @@ INSTRUCTIONS FOR USE:
 
 
 Example-of-finished: Stickers_for_office_folders (Photo):
+
 ![photo1](https://user-images.githubusercontent.com/81822988/113845184-87406e00-9795-11eb-9951-85ab89976997.jpg)
 
-        -- Severin Knežević --
-   Email: knezevicseverin@gmail.com
+
+
+
+          -- Severin Knežević --
+     Email: knezevicseverin@gmail.com
