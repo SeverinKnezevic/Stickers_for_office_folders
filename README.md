@@ -40,4 +40,4 @@ Example-of-finished: Stickers_for_office_folders (Photo):
 
    ***©SeverinKnezevic***
    
-	*Email: knezevicseverin@gmail.com* 
+*Email: knezevicseverin@gmail.com* 
