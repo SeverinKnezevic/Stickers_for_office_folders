@@ -22,6 +22,8 @@ Example-of-finished: Stickers_for_office_folders (Photo):
 
 ![photo1](https://user-images.githubusercontent.com/81822988/113845758-21081b00-9796-11eb-8bf6-8be2338e9117.jpg)
 
+****
+
 ![1](https://user-images.githubusercontent.com/81822988/114691521-0f83bd80-9d18-11eb-95ea-b6a771edb85f.png)
 
 ![2](https://user-images.githubusercontent.com/81822988/114691513-0d216380-9d18-11eb-8594-0429ad39652b.png)
@@ -36,5 +38,5 @@ Example-of-finished: Stickers_for_office_folders (Photo):
 
 ****
 
-          -- Severin Knežević --
+           ***©SeverinKnezevic***
      Email: knezevicseverin@gmail.com
